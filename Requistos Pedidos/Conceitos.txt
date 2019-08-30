@@ -1,0 +1,43 @@
+Revisão dos principais conceitos em Poo - 16/05/18
+
+Pilares da Orientação a Objetos que são: Abstração, Encapsulamento, Herança e Polimorfismo.
+
+1º Pilar - Abstração
+
+É utilizada para a definição de entidades do mundo real. levando em consideração suas caracteísticas e ações. Por meio dela simplifico um dado problema.
+
+2 º Pilar - Encapsulamento:
+
+É a técnica utilizada para esconder uma ideia, ou seja, não expôr detalhes internos para o usuário, tornando partes do sistema mais independentes possível.
+
+Em um processo de encapsulamento os atributos das classes são do tipo private. Para acessar esses tipos de modificadores, é necessário criar métodos setters e getters.
+
+Os métodos setters servem para alterar a informação de uma propriedade de um objeto. E os métodos getters para retornar o valor dessa propriedade.
+
+3º Pilar - Herança
+
+Na Orientação a Objetos é permitido que uma classe herde atributos e métodos da outra, tendo apenas uma restrição para a herança. A grande vantagem é  reutilizar um código já implementado.
+
+Outros:
+1. A sobrescrita está relacionda ao contexto da Herança. Com ele é possível alterar os métodos herdados das superclasses. Sendo assim, o método deve possuir a mesma assinatura e mesmo tipo de retorno.
+
+2. A sobrecarga consiste em permitir, dentro da mesma classe, mais de um método com o mesmo nome. Entretanto, eles necessariamente devem possuir argumentos diferentes para funcionar. 
+
+3. Ambos devem possuir implementações diferentes
+
+4. A escolha de qual método irá ser chamado pelo programa principal dependerá de acordo com o seu tipo de objeto.
+
+
+#ArrayList é um subtipo da interface List#
+#O modificador abstract indica que uma classe servirá de modelo para as outras#
+
+
+
+
+
+
+
+
+
+
+

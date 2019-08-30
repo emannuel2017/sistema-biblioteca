@@ -1,0 +1,40 @@
+Projeto Poo - Sistema Bibliotecas 
+
+Tema: Livre
+
+Sistema CRUD {
+1. Create = Crias coisas
+2. Retrieve = Recuperar dados que foram criados
+3. Update = Atualizar ou editar
+4. Apagar
+}
+
+Requisitos Técnicos:
+1. 10 classes no mínimo
+2. Encapsulamento
+3. Composição e Agregação
+4. Herança (1 no mínimo)
+5. Polimorfismo(Sobrecarga, Sobrescrita e de Tipo)
+6. Classe Abstrata (1 no mínimo)
+7. Array ou List
+8. Interface do usuário (Texto ou Gráfica com o Swing)
+
+Requisitos não técnicos:
+1. Executar
+2. Qualidade do código
+3. Boa Usabilidade (Interface intuitiva, fácil para o usuário utilizar)
+4. Retorno da aplicações tem que der corretos
+
+IDE:
+1. Feito no Eclipse
+2. Exportado no Formato Zip
+
+
+recebe = Data de Apresentação {
+17/05/18
+}
+Data da recuperação (recebe);
+
+
+
+
